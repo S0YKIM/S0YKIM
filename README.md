@@ -1,4 +1,4 @@
-### Back-end Engineer-to-be SOYEON KIM 💪
+### Hi, I'm Soyeon Kim 👋
 
 
 + 🌱 Learning more about and studying: C, Swift, Python
