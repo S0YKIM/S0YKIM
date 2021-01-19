@@ -5,6 +5,8 @@ Hi there! I’m currently learning  C language and Swift.
 - CS50x: DEC 2020 - ONGOING
 - NAVER BOOSTCAMP STUDY GROUP: JAN 2021 - ONGOING
 
+<img src="https://github-readme-stats.vercel.app/api?username=S0YKIM&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues" />
+
 
 <!--
 **S0YKIM/S0YKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
