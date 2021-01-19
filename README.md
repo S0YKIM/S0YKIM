@@ -1,4 +1,10 @@
-### Hi there 👋
+### Back-end Engineer-to-be 💪
+
+Hi there! I’m currently learning  C language and Swift.
+
+- CS50x: DEC 2020 - ONGOING
+- NAVER BOOSTCAMP STUDY GROUP: JAN 2021 - ONGOING
+
 
 <!--
 **S0YKIM/S0YKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
