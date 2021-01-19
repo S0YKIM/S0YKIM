@@ -1,13 +1,13 @@
 ### Back-end Engineer-to-be SOYEON KIM 💪
 
 
-🌱 Learning more about and studying: C, Swift, Python
-💼 Connecting and sharing professional updates on [LinkedIn]https://www.linkedin.com/in/soyeon-eden-kim/
++ 🌱 Learning more about and studying: C, Swift, Python
++ 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/soyeon-eden-kim/)
 
 - CS50x: DEC 2020 - ONGOING
 - NAVER BOOSTCAMP STUDY GROUP: JAN 2021 - ONGOING
 
-⭐️ From [S0YKIM]https://github.com/S0YKIM
+⭐️ From [S0YKIM](https://github.com/S0YKIM)
 
 <img src="https://github-readme-stats.vercel.app/api?username=S0YKIM&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues" />
 
