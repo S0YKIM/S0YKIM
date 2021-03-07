@@ -4,8 +4,8 @@
 + 🌱 Learning more about and studying: C, Swift, Python
 + 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/soyeon-eden-kim/)
 
-- CS50x: DEC 2020 - ONGOING
-- NAVER BOOSTCAMP STUDY GROUP: JAN 2021 - ONGOING
+- CS50x: DEC 2020 - MAR 2021
+- NAVER BOOSTCAMP STUDY GROUP: JAN 2021 - FEB 2021
 
 ⭐️ From [S0YKIM](https://github.com/S0YKIM)
 
