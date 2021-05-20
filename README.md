@@ -1,5 +1,5 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
+<img src="https://github-readme-stats.vercel.app/api?username=S0YKIM&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues" />
 
 ### Hi, I'm Soyeon Kim 👋
 
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> <img src="https://github-readme-stats.vercel.app/api?username=S0YKIM&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues" />
+--> 
