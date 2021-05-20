@@ -1,3 +1,6 @@
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+<img src="https://github-readme-stats.vercel.app/api?username=S0YKIM&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues" />
+
 ### Hi, I'm Soyeon Kim 👋
 
 + 🌱 Learning more about and studying: C, Swift, Python, SQL
@@ -10,8 +13,7 @@
 
 ⭐️ From [S0YKIM](https://github.com/S0YKIM)
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-<img src="https://github-readme-stats.vercel.app/api?username=S0YKIM&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues" />
+
 
 
 <!--
