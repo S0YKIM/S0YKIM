@@ -11,6 +11,8 @@
 ⭐️ From [S0YKIM](https://github.com/S0YKIM)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim)](https://github.com/JaeSeoKim/badge42)
+privacyEmail=true
+privacyName=true
 <img src="https://github-readme-stats.vercel.app/api?username=S0YKIM&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues" />
 
 
