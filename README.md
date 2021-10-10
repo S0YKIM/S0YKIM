@@ -11,7 +11,6 @@
 
 ⭐️ From [S0YKIM](https://github.com/S0YKIM)
 
-</br>
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim)](https://github.com/JaeSeoKim/badge42)
 
