@@ -1,7 +1,7 @@
 
 ### Hi, I'm Soyeon Kim 👋
 
-+ 🌱 Learning more about and studying: C, Swift, Python, SQL
++ 🌱 Learning more about and studying: C, Javascript, Python, SQL
 + 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/soyeon-eden-kim/)
 
 - CS50x: DEC 2020 - MAR 2021
