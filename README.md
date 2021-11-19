@@ -5,7 +5,7 @@
 + 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/soyeon-eden-kim/)
 
 - CS50x: DEC 2020 - MAR 2021
-- NAVER BOOSTCAMP STUDY GROUP: JAN - FEB 2021
+- NAVER BOOSTCOURSE STUDY GROUP: JAN - FEB 2021
 - 42SEOUL LA PISCINE: MAR - APR 2021
 - 42SEOUL CADET: MAY 2021 - PRESENT
 
