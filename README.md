@@ -1,15 +1,15 @@
 
 ### Hi, I'm Soyeon Kim 👋
 
-+ 🌱 Learning more about: C, Javascript, Python, SQL
-+ 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/soyeon-eden-kim/)
-+ 🔭 I’m currently studying at ...
+🌱 Learning more about: C, Javascript, Python, SQL
+💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/soyeon-eden-kim/)
+🔭 I’m currently studying at ...
 - 42SEOUL CADET: MAY 2021 - PRESENT
 - 42SEOUL LA PISCINE: MAR - APR 2021
 - NAVER BOOSTCOURSE STUDY GROUP: JAN - FEB 2021
 - CS50x: DEC 2020 - MAR 2021
 
-+ 🏅 Awards
+🏅 Awards
 - 2021 Opensource Software Hackathon Dean's Award(2nd Place)
 - To learn more about it: [python-hitchhiker](https://github.com/innohack2021/python-hitchhiker)
 
