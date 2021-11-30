@@ -2,8 +2,12 @@
 ### Hi, I'm Soyeon Kim 👋
 
 🌱 Learning more about: C, Javascript, Python, SQL
+</br>
 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/soyeon-eden-kim/)
+</br>
 🔭 I’m currently studying at ...
+</br>
+
 - 42SEOUL CADET: MAY 2021 - PRESENT
 - 42SEOUL LA PISCINE: MAR - APR 2021
 - NAVER BOOSTCOURSE STUDY GROUP: JAN - FEB 2021
