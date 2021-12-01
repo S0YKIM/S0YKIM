@@ -10,15 +10,14 @@
 
 <h3 align="center"><b>Skills</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> &nbsp
 </p>
 
-🌱 Learning more about: C, Javascript, Python, SQL
-</br>
-💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/soyeon-eden-kim/)
-</br>
+
+
 🔭 I’m currently studying at ...
 </br>
 
@@ -42,6 +41,7 @@
 
 Here are some ideas to get you started:
 
+- 🌱 Learning more about ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
