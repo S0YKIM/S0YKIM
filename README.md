@@ -14,7 +14,7 @@
 - CS50x: DEC 2020 - MAR 2021
 
 🏅 Awards
-- 2021 Opensource Software Hackathon Dean's Award(2nd Place)
+- 2021 Innovation Academy Opensource Software Hackathon Dean's Award(2nd Place)
 - To learn more about it: [python-hitchhiker](https://github.com/innohack2021/python-hitchhiker)
 
 ⭐️ From [S0YKIM](https://github.com/S0YKIM)
