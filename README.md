@@ -1,3 +1,4 @@
+![name](https://user-images.githubusercontent.com/72473178/144230603-3793de97-e024-4402-8a7d-1176c6010d54.png)
 
 ### Hi, I'm Soyeon Kim 👋
 
