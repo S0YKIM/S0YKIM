@@ -16,7 +16,33 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> &nbsp
 </p>
 
+<table width="800px">
+<tr>
+<td valign="top" width="50%">
 
+#### 🏋️‍♀️ <a href="https://github.com/innohack2021/python-hitchhiker/releases/tag/v1.0.0" target="_blank">Product Releases</a>
+
+<!-- recent_releases starts -->
+* <a href='https://github.com/innohack2021/python-hitchhiker/releases/tag/v1.0.0' target='_blank'>Python Live Coding Cookbook Using Backend.AI</a> - 2021-11-29
+
+<!-- recent_releases ends -->
+
+</td>
+<td valign="top" width="50%">
+
+#### 🤹‍♀️ <a href="https://love-every-moment.tistory.com/" target="_blank">Blog Posts</a>
+
+<!-- blog starts -->
+* <a href='https://love-every-moment.tistory.com/53' target='_blank'>Process: pid, fork, exec, pipe</a> - 2021-06-25
+* <a href='https://love-every-moment.tistory.com/52' target='_blank'>Redirection and Pipe</a> - 2021-06-25
+* <a href='https://love-every-moment.tistory.com/51' target='_blank'>Network: subnet mask, osi, tcp/udp, dns/dhcp</a> - 2021-06-19
+* <a href='https://love-every-moment.tistory.com/47' target='_blank'>How to write Makefile</a> - 2021-06-01
+* <a href='https://love-every-moment.tistory.com/45' target='_blank'>What is File Desciptor?</a> - 2021-05-27
+<!-- blog ends -->
+
+</td>
+</tr>
+</table>
 
 🔭 I’m currently studying at ...
 </br>
