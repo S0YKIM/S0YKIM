@@ -45,7 +45,46 @@
 </td>
 
 </tr>
+
+<td valign="top" width="50%">
+
+#### 🌱 <a>I'm currently studying at ...</a>
+
+<!-- studing starts-->
+* <a> 42SEOUL CADET </a> - MAY 2021 - PRESENT
+* <a> 42SEOUL LA PISCINE </a> - MAR - APR 2021
+* <a> NAVER BOOSTCOURSE STUDY GROUP </a> JAN - FEB 2021
+* <a> CS50x </a> - DEC 2020 - MAR 2021
+
+
+<!-- studying ends -->
+
+</td>
+
+<td valign="top" width="50%">
+
+#### 🏅 <a> Awards </a>
+
+<!-- awards start-->
+* 2021 Innovation Academy Opensource Software Hackathon Dean's Award(2nd Place)
+* <a href='https://github.com/innohack2021/python-hitchhiker' target='_blank'>Python Live Coding Cookbook Using Backend.AI</a> - 2021-11-29
+
+<!-- awards end -->
+
+</td>
 </table>
+
+
+
+
+
+⭐️ From [S0YKIM](https://github.com/S0YKIM)
+
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+
+<!--
 
 🔭 I’m currently studying at ...
 </br>
@@ -59,13 +98,7 @@
 - 2021 Innovation Academy Opensource Software Hackathon Dean's Award(2nd Place)
 - To learn more about it: [python-hitchhiker](https://github.com/innohack2021/python-hitchhiker)
 
-⭐️ From [S0YKIM](https://github.com/S0YKIM)
 
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
-
-<!--
 **S0YKIM/S0YKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
