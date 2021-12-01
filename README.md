@@ -75,13 +75,9 @@
 </table>
 
 
-
-
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ⭐️ From [S0YKIM](https://github.com/S0YKIM)
-
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
