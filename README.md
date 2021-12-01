@@ -21,7 +21,7 @@
 
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://love-every-moment.tistory.com/" target="_blank">Blog Posts</a>
+#### 🤹‍♀️ <a> Blog Posts </a>
 
 <!-- blog starts -->
 * <a href='https://love-every-moment.tistory.com/53' target='_blank'>Process: pid, fork, exec, pipe</a> - 2021-06-25
@@ -51,10 +51,10 @@
 #### 🌱 <a>I'm currently studying at ...</a>
 
 <!-- studing starts-->
-* <a> 42SEOUL CADET </a> - MAY 2021 - PRESENT
-* <a> 42SEOUL LA PISCINE </a> - MAR - APR 2021
-* <a> NAVER BOOSTCOURSE STUDY GROUP </a> JAN - FEB 2021
-* <a> CS50x </a> - DEC 2020 - MAR 2021
+* <a> 42SEOUL CADET </a> : MAY 2021 - PRESENT
+* <a> 42SEOUL LA PISCINE </a> : MAR - APR 2021
+* <a> NAVER BOOSTCOURSE STUDY GROUP </a> : JAN - FEB 2021
+* <a> CS50x </a> : DEC 2020 - MAR 2021
 
 
 <!-- studying ends -->
