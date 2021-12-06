@@ -76,11 +76,12 @@
 </table>
 
 <h3 align="center"><b>Stats</b></h3>
+<div align=center>
+![soyeon's github stats](https://github-readme-stats.vercel.app/api?username=S0YKIM&show_icons=true&theme=radical)
 
-<p align="center">
 
  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) 
-</p>
+</div>
 
 ⭐️ From [S0YKIM](https://github.com/S0YKIM)
 
