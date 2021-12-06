@@ -78,7 +78,7 @@
 <h3 align="center"><b>Stats</b></h3>
 <p align="center">
  
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) &nbsp
 
 </p>
 
