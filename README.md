@@ -69,6 +69,7 @@
 * 2021 Innovation Academy Opensource Software Hackathon Dean's Award(2nd Place)
 * <a href='https://github.com/innohack2021/python-hitchhiker' target='_blank'>Python Live Coding Cookbook Using Backend.AI</a>
 * Contributed as a leader and a frontend developer
+* To watch the presentation: https://youtu.be/zNynKuK6wUE?t=4838
 
 <!-- awards end -->
 
