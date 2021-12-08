@@ -101,10 +101,6 @@
 - To learn more about it: [python-hitchhiker](https://github.com/innohack2021/python-hitchhiker)
 
 
-**S0YKIM/S0YKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 Learning more about ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
