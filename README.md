@@ -3,9 +3,9 @@
 
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
-<a href="42.4.sokim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
-<a href="https://www.linkedin.com/in/soyeon-eden-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
-<a href="https://www.instagram.com/soyun._.kim/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
+<a href="42.4.sokim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp
+<a href="https://www.linkedin.com/in/soyeon-eden-kim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp
+<a href="https://www.instagram.com/soyun._.kim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="center"><b>Language</b></h3>
