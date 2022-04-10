@@ -87,9 +87,7 @@
  
  ![soyeon's github stats](https://github-readme-stats.vercel.app/api?username=S0YKIM&show_icons=true&theme=radical)
 
- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sokim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-</div>
-
+ [![sokim's 42 stats](https://badge42.vercel.app/api/v2/cl1sxc9pb003009jgq7f86utb/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 ⭐️ From [S0YKIM](https://github.com/S0YKIM)
 
 
