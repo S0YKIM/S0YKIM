@@ -41,7 +41,7 @@
  
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a> Product Releases </a>
+#### 🏋 <a> Product Releases </a>
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/innohack2021/python-hitchhiker/releases/tag/v1.0.0' target='_blank'>Python Live Coding Cookbook Using Backend.AI</a> - 2021-11-29
