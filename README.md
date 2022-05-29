@@ -56,7 +56,8 @@
 
 #### 🌱 <a>I'm currently studying at ...</a>
 
-<!-- studing starts-->
+<!-- studying starts-->
+* <a> KOREA NATIONAL OPEN UNIVERSITY - B.S. of COMPUTER SCIENCE </a> : MAR 2022 - PRESENT
 * <a> 42SEOUL CADET </a> : MAY 2021 - PRESENT
 * <a> 42SEOUL LA PISCINE </a> : MAR - APR 2021
 * <a> NAVER BOOSTCOURSE STUDY GROUP </a> : JAN - FEB 2021
