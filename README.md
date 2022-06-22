@@ -1,7 +1,7 @@
 ![name](https://user-images.githubusercontent.com/72473178/144230603-3793de97-e024-4402-8a7d-1176c6010d54.png)
  
 
-<h3 align="center"><b>Contact</b></h3>
+<h3 align="center"><b>About me</b></h3>
 <p align="center">
 <a href="https://love-every-moment.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a> &nbsp
 <a href="https://www.linkedin.com/in/soyeon-eden-kim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp
