@@ -35,7 +35,6 @@
 * <a href='https://love-every-moment.tistory.com/89' target='_blank'>Basics of class, instance, attribute, and method in Python</a> - 2022-06-30 
 * <a href='https://love-every-moment.tistory.com/63' target='_blank'>How to debug with LLDB</a> - 2022-01-31 
 * <a href='https://love-every-moment.tistory.com/53' target='_blank'>Process: pid, fork, exec, pipe</a> - 2021-06-25
-* <a href='https://love-every-moment.tistory.com/52' target='_blank'>Redirection and Pipe</a> - 2021-06-25
 * <a href='https://love-every-moment.tistory.com/51' target='_blank'>Network: subnet mask, osi, tcp/udp, dns/dhcp</a> - 2021-06-19
 * <a href='https://love-every-moment.tistory.com/47' target='_blank'>How to write Makefile</a> - 2021-06-01
 <!-- blog ends -->
