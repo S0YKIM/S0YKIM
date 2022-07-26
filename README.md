@@ -31,7 +31,7 @@
 #### 🤹‍♀️ <a> Blog Posts </a>
 
 <!-- blog starts -->
-* <a href='https://love-every-moment.tistory.com/91' target='_blank'>When should you use 'const' in return values</a> - 2022-07-25 
+* <a href='https://love-every-moment.tistory.com/91' target='_blank'>When should we use 'const' in return values</a> - 2022-07-25 
 * <a href='https://love-every-moment.tistory.com/89' target='_blank'>Basics of class, instance, attribute, and method in Python</a> - 2022-06-30 
 * <a href='https://love-every-moment.tistory.com/63' target='_blank'>How to debug with LLDB</a> - 2022-01-31 
 * <a href='https://love-every-moment.tistory.com/53' target='_blank'>Process: pid, fork, exec, pipe</a> - 2021-06-25
