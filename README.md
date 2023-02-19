@@ -58,7 +58,7 @@
 
 <td valign="top" width="50%">
 
-#### 🌱 <a> What Am I Learning ... </a>
+#### 🌱 <a> What I learn ... </a>
 
 <!-- studying starts-->
 * <a> Korea National Open University - Computer Science </a> : Mar 2022 - PRESENT
