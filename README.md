@@ -54,6 +54,9 @@
  
 <td valign="top" width="50%">
 
+#### 💻 <a> Career </a>
+* <a> Software Engineer @LG CNS </a> : JUL 2023 - PRESENT
+
 #### 🏋 <a> Product Releases </a>
 
 <!-- recent_releases starts -->
@@ -68,7 +71,7 @@
 
 <td valign="top" width="50%">
 
-#### 🌱 <a> What I learn ... </a>
+#### 🌱 <a> Learning </a>
 
 <!-- studying starts-->
 * <a> Korea National Open University - Computer Science </a> : Mar 2022 - PRESENT
